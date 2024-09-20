@@ -1,0 +1,5 @@
+class Testing {
+  public static void main(String [] args) {
+    // place your code here!
+    System.out.println("Hello " +  badmosh );
+    // your code ends here!
